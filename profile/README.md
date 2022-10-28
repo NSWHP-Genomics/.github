@@ -2,7 +2,7 @@
 Hi there 👋
 
 ## :warning: Disclaimer :warning: ##
-All projects hold on this site are for research only and are experimental in nature, none is authorized/certified for production or clinical use.
+All projects hold on this site are for __research only__ and are __experimental in nature__, __NONE__ is authorized/certified for production or clinical use. All responsibilities reside with developers, exercise with caution.
 
 ## 🌈 Contribution guidelines 🌈 
 how can the community get involved?
