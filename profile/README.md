@@ -1,6 +1,9 @@
 ## 🙋‍ Welcome 🙋‍
 Hi there 👋
 
+## :warning: Disclaimer :warning: ##
+All projects hold on this site are for research only and are experimental in nature, none is authorized/certified for production or clinical use.
+
 ## 🌈 Contribution guidelines 🌈 
 how can the community get involved?
 
